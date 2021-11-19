@@ -1,2 +1,4 @@
 *.rbc
 *.fyc
+*DS_Store
+config.py
